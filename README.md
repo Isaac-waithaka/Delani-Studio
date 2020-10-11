@@ -49,8 +49,7 @@ This is a project that details what Delani Studio does and their works. Addition
 * Javascript
 
 ## Support and contact details
-contact me @ calmosh1421@gmail.com
+contact me at waithakaisaac2016@gmail.com
 ### License
-The project is under[MIT license](https://github.com/calvince/Delani-Studio/blob/master/LICENSE)
-Copyright &copy; 2019.All rigths reservedg
+The project is under MIT license
   
