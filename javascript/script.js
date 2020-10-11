@@ -6,7 +6,7 @@ $('.main').click(function () {
 // giving feedback to the customer
 $("button").click(function (omonge) {
   var client = document.getElementById('nameDetail').value;
-  alert(' Dear ' + ' esteemed ' + client + ' we have received your message successfully. ' + ' Feel free to reach out to us anytime');
+  alert(' Dear ' + ' esteemed ' + client + ' we have received your message successfully. ' + ' Feel free to reach out to us at anytime');
   omonge.preventDefault();
 });
 //    reset my form button
