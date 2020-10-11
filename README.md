@@ -12,35 +12,6 @@ This is a project that details what Delani Studio does and their works. Addition
 * Clone the program from [Online repository](https://github.com/Isaac-waithaka/Delani-studio)
 * Click on the green button to clone or download
 
-## Behavior Driven Development
-<table>
-    <tr>
-      <th>Behavior</th> 
-      <th>Input</th> 
-      <th>Output</th>   
-    </tr>
-    <tr>
-        <td>Enter your name</td>
-        <td>['Isaac']</td>
-        <td>name = 'Isaac'</td>
-    </tr>
-    <tr>
-        <td>Enter Email && Message</td>
-        <td>['Email','Message']</td>
-        <td>Email && Message</td>
-    </tr>
-    <tr>
-        <td>Submit</td>
-        <td>Email && Message</td>
-        <td>Thank you Isaac, details received</td>
-    </tr>
-    <tr>
-        <td>Sum of two values<= third value </td>
-        <td>[1,2,5]</td>
-        <td>No triangle</td>
-    </tr>    
-</table>
-
 ## Technologies Used
 * HTML
 * CSS
