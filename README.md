@@ -1,7 +1,7 @@
-:satisfied:
+
 # DELANI STUDIO
-#### This project interlinks clients to software developers, Sunday May 5 2019 
-#### By **OMONGE CALVINCE**&trade;
+#### This project interlinks clients to software developers.
+#### By **ISAAC WAITHAKA**&trade;
 
 ## Description
 This is a project that details what Delani Studio does and their works. Additionally, it allows users to send messages and receive email confirmations n receival of the messages by the company.
