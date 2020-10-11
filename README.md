@@ -1,6 +1,6 @@
 
 # DELANI STUDIO
-#### This project interlinks clients to software developers.
+#### This project links clients to software developers.
 #### By **ISAAC WAITHAKA**
 
 ## Description
