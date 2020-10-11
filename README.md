@@ -1,10 +1,10 @@
 
 # DELANI STUDIO
 #### This project interlinks clients to software developers.
-#### By **ISAAC WAITHAKA**&trade;
+#### By **ISAAC WAITHAKA**
 
 ## Description
-This is a project that details what Delani Studio does and their works. Additionally, it allows users to send messages and receive email confirmations n receival of the messages by the company.
+This is a project that details what Delani Studio does and their work.It also allows users to send messages and receive email confirmations and receipt of the messages by the company.
 ## Project live site
   This is the live LINK .[ Click to go to the live site](https://Isaac-waithaka.github.io/Delani-studio/)
 
