@@ -6,10 +6,10 @@
 ## Description
 This is a project that details what Delani Studio does and their works. Additionally, it allows users to send messages and receive email confirmations n receival of the messages by the company.
 ## Project live site
-  This is the live LINK .[ Click to go to the live site](https://Isaac-waithaka.github.io/Delani-Studio/)
+  This is the live LINK .[ Click to go to the live site](https://Isaac-waithaka.github.io/Delani-studio/)
 
 ## Setup instructions
-* Clone the program from [Online repo](https://github.com/calvince/Delani-Studio)
+* Clone the program from [Online repository](https://github.com/Isaac-waithaka/Delani-studio)
 * Click on the green button to clone or download
 
 ## Behavior Driven Development
@@ -21,8 +21,8 @@ This is a project that details what Delani Studio does and their works. Addition
     </tr>
     <tr>
         <td>Enter your name</td>
-        <td>['Calvince']</td>
-        <td>name = 'calvince'</td>
+        <td>['Isaac']</td>
+        <td>name = 'Isaac'</td>
     </tr>
     <tr>
         <td>Enter Email && Message</td>
@@ -32,7 +32,7 @@ This is a project that details what Delani Studio does and their works. Addition
     <tr>
         <td>Submit</td>
         <td>Email && Message</td>
-        <td>Thank you Calvince, details received</td>
+        <td>Thank you Isaac, details received</td>
     </tr>
     <tr>
         <td>Sum of two values<= third value </td>
